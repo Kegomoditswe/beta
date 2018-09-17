@@ -1,4 +1,5 @@
-public class KEGO{
+public class Master
+{
    public void dummy(){
       System.out.println("whatever");
    }
